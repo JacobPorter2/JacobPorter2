@@ -3,7 +3,7 @@
 <!-- Cool Typing intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Neovim+Enjoyer;Systems+Programming;Building+Cool+Stuff" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Vim+Hater;Nano+Enjoyer;Systems+Programming;Grinder" />
 </p>
 
 <!-- profile views -->
